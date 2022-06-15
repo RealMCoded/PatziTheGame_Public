@@ -24,7 +24,7 @@ Licensed under the GNU GPL v3.0 License
 All textures seen here do not belong to me. All Patzi assets belong to [Patzi](https://patzi.carrd.co/)
 
 ## Download
-If you aren't interested in building the game but instead playing it, you can download it [here (Windows x64 only!)](https://github.com/RealMCoded/PatziTheGame-Public/releases/download/release/PatziTheGame_PublicPrototype.zip)
+If you aren't interested in building the game but instead playing it, you can download it [here (Windows x64 only!)](https://github.com/RealMCoded/PatziTheGame_Public/releases/download/release/PatziTheGame_PublicPrototype.zip)
 
 You can also download the source code in the yyz format [here](https://raw.githubusercontent.com/RealMCoded/PatziTheGame-Public/main/PatziTheGame_GMCompressedArchive.yyz)
 
