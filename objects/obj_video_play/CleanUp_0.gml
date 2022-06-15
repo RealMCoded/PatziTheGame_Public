@@ -1,0 +1,2 @@
+/// @description
+video_close();
